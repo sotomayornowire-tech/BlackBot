@@ -1,0 +1,13 @@
+{
+  "name": "blackbot",
+  "version": "1.0.0",
+  "description": "BlackBot - Discord bot with basic commands, tickets, console and simple AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
